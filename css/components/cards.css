@@ -1,0 +1,22 @@
+h2 {
+  text-align: center;
+}
+
+.card-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+.card-section img {
+  height: 120px;
+  width: 200px;
+}
+
+.card-section p {
+  opacity: 0.5;
+}
+.card-section-features {
+  box-shadow: 0 1px 2px 1px rgba(0,0,0,0.2);
+  width: 170px;
+  padding: 20px;
+}

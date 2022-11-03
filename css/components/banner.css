@@ -1,0 +1,25 @@
+.background-image{
+  height: 200px;
+  width: 100em;
+}
+
+.banner {
+  color: white;
+  background-size: cover;
+  padding: 200px;
+}
+
+.banner p {
+  font-size: 20px;
+  color: white;
+  opacity: 0.7;
+  margin-bottom: 35px;
+
+}
+
+.btn-green a {
+  color: white;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 24px;
+}
